@@ -1,0 +1,34 @@
+{
+    "Logos": {
+        "root": "λόγος",
+        "language": "Greek",
+        "definition": "A word, speech, or principle of reason; specifically, the divine reason implicit in the cosmos.",
+        "literalMeaning": "Ground / Reason / Word",
+        "theologicalInterpretation": "In Johannine theology, it identifies Jesus as the pre-existent Divine Word. In Stoicism, it is the rational principle governing the universe.",
+        "occurrencesCount": 331
+    },
+    "Elohim": {
+        "root": "אֱלֹהִים",
+        "language": "Hebrew",
+        "definition": "The most common designation for God in the Hebrew Bible, used plural in form but singular in construction when referring to the deity.",
+        "literalMeaning": "Powers / Mighty Ones",
+        "theologicalInterpretation": "Used to denote God as creator and judge of the universe, often associated with divine justice.",
+        "occurrencesCount": 2602
+    },
+    "Rahman": {
+        "root": "ر ح م",
+        "language": "Arabic",
+        "definition": "One of the Names of God in Islam, signifying Infinite Mercy that encompasses all creation.",
+        "literalMeaning": "Womb-like Mercy",
+        "theologicalInterpretation": "Signifies the inherent and primordial mercy of God that precedes specific actions or deserving, often paired with 'Raheem' (Specific Mercy).",
+        "occurrencesCount": 57
+    },
+    "Adam": {
+        "root": "אדם / آدم",
+        "language": "Hebrew/Arabic",
+        "definition": "The first human; also used collectively for 'mankind' or 'humanity'.",
+        "literalMeaning": "Red Earth / Dust",
+        "theologicalInterpretation": "Represents the common origin of humanity and the tension between divine breath and earthly composition.",
+        "occurrencesCount": 560
+    }
+}

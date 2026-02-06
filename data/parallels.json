@@ -1,0 +1,46 @@
+{
+    "BIBLE_GENESIS_1_1": [
+        {
+            "targetId": "QURAN_SURAH_1_1",
+            "category": "Thematic Similarity",
+            "explanation": "Both passages establish the foundational premise of divine primacy and creative authority. Genesis focuses on the temporal 'beginning' while Al-Fatiha focuses on the character of the Creator (Merciful, Lord of worlds).",
+            "citation": "Surah 1:1"
+        },
+        {
+            "targetId": "TORAH_GENESIS_1_1",
+            "category": "Direct Parallel",
+            "explanation": "Identical textual source within the shared tradition of the Pentateuch.",
+            "citation": "Genesis 1:1"
+        }
+    ],
+    "QURAN_SURAH_1_1": [
+        {
+            "targetId": "BIBLE_GENESIS_1_1",
+            "category": "Thematic Similarity",
+            "explanation": "Establishing the sovereignty of God over all existence. Narrative shared across monotheistic frameworks.",
+            "citation": "Genesis 1:1"
+        }
+    ],
+    "BIBLE_EXODUS_20_3": [
+        {
+            "targetId": "QURAN_SURAH_112_1",
+            "category": "Theological Divergence",
+            "explanation": "While both emphasize absolute monotheism, the Decalogue frames it as a commandment of loyalty ('before me'), whereas Surah Al-Ikhlas defines it as an ontological oneness ('He is One/Unique').",
+            "citation": "Surah 112:1"
+        }
+    ],
+    "QURAN_SURAH_5_27": [
+        {
+            "targetId": "BIBLE_GENESIS_4_1",
+            "category": "Direct Parallel",
+            "explanation": "Corresponds to the narrative of Cain and Abel (Qabil and Habil). Both texts recount the offering, the rejection, and the subsequent envy that lead to the first homicide in human history.",
+            "citation": "Genesis 4:1-8"
+        },
+        {
+            "targetId": "TORAH_GENESIS_4_1",
+            "category": "Direct Parallel",
+            "explanation": "The Pentateuch account of the offering made by Adam's sons. Torah emphasizes the agricultural vs pastoral nature of the sacrifice.",
+            "citation": "Genesis 4:3-5"
+        }
+    ]
+}
