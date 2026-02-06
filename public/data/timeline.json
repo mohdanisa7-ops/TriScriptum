@@ -1,0 +1,70 @@
+[
+    {
+        "id": "creation_event",
+        "year": -4004,
+        "title": "Cosmogony / Creation",
+        "description": "The foundational narrative of creation. Chronologies diverge significantly between traditional MASORETIC, SEPTUAGINT, and Islamic interpretations.",
+        "source": "torah",
+        "linkedVerseIds": [
+            "TORAH_GENESIS_1_1",
+            "BIBLE_GENESIS_1_1",
+            "QURAN_SURAH_7_54"
+        ],
+        "conflictId": "creation_conflict"
+    },
+    {
+        "id": "flood_event",
+        "year": -2348,
+        "title": "Great Deluge (Noah)",
+        "description": "Narrative of the global or regional flood. Present in all three scriptures with varying emphasis on the scope of destruction.",
+        "source": "bible",
+        "linkedVerseIds": [
+            "BIBLE_GENESIS_6_9",
+            "QURAN_SURAH_11_25",
+            "TORAH_GENESIS_6_9"
+        ]
+    },
+    {
+        "id": "merneptah_stele",
+        "year": -1208,
+        "title": "Merneptah Stele",
+        "description": "First extra-biblical mention of 'Israel' as a people in Canaan. Critical archaeological anchor for the late dating of the Exodus.",
+        "source": "archaeology",
+        "linkedVerseIds": [
+            "BIBLE_EXODUS_1_1",
+            "TORAH_EXODUS_1_1"
+        ]
+    },
+    {
+        "id": "exodus_narrative",
+        "year": -1446,
+        "title": "The Exodus (Early Dating)",
+        "description": "The departure from Egypt under Moses. Traditional dating based on 1 Kings 6:1. Conflicts with 'Late Dating' (-1250 BCE) preferred by many archaeologists.",
+        "source": "torah",
+        "linkedVerseIds": [
+            "TORAH_EXODUS_12_37",
+            "QURAN_SURAH_20_77"
+        ],
+        "conflictId": "exodus_conflict"
+    },
+    {
+        "id": " Cyrus_edict",
+        "year": -538,
+        "title": "Edict of Cyrus",
+        "description": "Decree allowing the return of exiles from Babylon. Grounded in both Ezra and the archaeological Cyrus Cylinder.",
+        "source": "archaeology",
+        "linkedVerseIds": [
+            "BIBLE_EZRA_1_1"
+        ]
+    },
+    {
+        "id": "makkah_conquest",
+        "year": 630,
+        "title": "Conquest of Makkah",
+        "description": "The peaceful entry into Makkah by the early Muslim community, solidifying the monotheistic presence in the Hijaz.",
+        "source": "quran",
+        "linkedVerseIds": [
+            "QURAN_SURAH_48_1"
+        ]
+    }
+]

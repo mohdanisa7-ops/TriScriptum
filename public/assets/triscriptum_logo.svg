@@ -1,0 +1,19 @@
+<svg width="40" height="40" viewBox="0 0 40 40" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="gold-grad" x1="0" y1="0" x2="40" y2="40" gradientUnits="userSpaceOnUse">
+      <stop offset="0%" stop-color="#C5A059" />
+      <stop offset="50%" stop-color="#E5C079" />
+      <stop offset="100%" stop-color="#C5A059" />
+    </linearGradient>
+    <filter id="glow" x="-50%" y="-50%" width="200%" height="200%">
+      <feGaussianBlur stdDeviation="2" result="blur" />
+      <feComposite in="SourceGraphic" in2="blur" operator="over" />
+    </filter>
+  </defs>
+  <!-- Three vertical strokes representing 3 scriptures/columns -->
+  <path d="M12 10L12 30" stroke="url(#gold-grad)" stroke-width="3" stroke-linecap="round" filter="url(#glow)" />
+  <path d="M20 6L20 34" stroke="url(#gold-grad)" stroke-width="3" stroke-linecap="round" filter="url(#glow)" />
+  <path d="M28 10L28 30" stroke="url(#gold-grad)" stroke-width="3" stroke-linecap="round" filter="url(#glow)" />
+  <!-- Connecting curve/unification -->
+  <path d="M8 20 C 8 20, 20 20, 32 20" stroke="url(#gold-grad)" stroke-width="1" stroke-opacity="0.5" />
+</svg>
